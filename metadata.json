@@ -1,0 +1,5 @@
+{
+  "name": "TeleAds Marketplace",
+  "description": "A decentralized ads marketplace for Telegram channels with escrow protection.",
+  "requestFramePermissions": []
+}
