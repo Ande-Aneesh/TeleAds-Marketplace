@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Navigation } from './components/navigation';
+import { Navigation } from './components/Navigation';
 import { MarketplaceScreen } from './screens/MarketplaceScreen';
 import { CreateDealScreen } from './screens/CreateDealScreen';
 import { DealsScreen } from './screens/DealsScreen';
